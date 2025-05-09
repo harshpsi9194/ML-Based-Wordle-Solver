@@ -1,0 +1,1 @@
+This repo, as stated at several other instances, is my desperate attempt to beat my friends at the famous Newyork Times game of wordle, in which basically you have to find a mystery word by guessing it
